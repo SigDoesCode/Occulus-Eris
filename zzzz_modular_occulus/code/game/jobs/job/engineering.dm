@@ -7,7 +7,7 @@
 		access_ce, access_RC_announce, access_keycard_auth, access_tcomsat, access_ai_upload, access_change_engineering
 	)
 
-	perks = list(/datum/perk/inspiration, /datum/perk/job/engineer)
+	perks = list(/datum/perk/inspiration, /datum/perk/oddity/surefooting)
 
 /datum/job/technomancer
 	also_known_languages = list(LANGUAGE_CYRILLIC = 0)
@@ -17,4 +17,4 @@
 		access_sec_doors, access_mailsorting, access_moebius
 	)
 
-	perks = list(/datum/perk/inspiration, /datum/perk/job/engineer)
+	perks = list(/datum/perk/inspiration, /datum/perk/oddity/surefooting)
